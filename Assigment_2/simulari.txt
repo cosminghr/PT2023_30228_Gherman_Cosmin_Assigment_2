@@ -1,0 +1,303 @@
+Current time: 1
+Waiting tasks: T{AT=6, ST=2}, T{AT=12, ST=2}, T{AT=25, ST=3}, T{AT=25, ST=3},  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 2
+Waiting tasks: T{AT=6, ST=2}, T{AT=12, ST=2}, T{AT=25, ST=3}, T{AT=25, ST=3},  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 3
+Waiting tasks: T{AT=6, ST=2}, T{AT=12, ST=2}, T{AT=25, ST=3}, T{AT=25, ST=3},  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 4
+Waiting tasks: T{AT=6, ST=2}, T{AT=12, ST=2}, T{AT=25, ST=3}, T{AT=25, ST=3},  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 5
+Waiting tasks: T{AT=6, ST=2}, T{AT=12, ST=2}, T{AT=25, ST=3}, T{AT=25, ST=3},  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 6
+Waiting tasks: T{AT=12, ST=2}, T{AT=25, ST=3}, T{AT=25, ST=3},  
+Queue 1: Tasks=[T{AT=6, ST=2}]
+Queue 2: Close
+
+Current time: 7
+Waiting tasks: T{AT=12, ST=2}, T{AT=25, ST=3}, T{AT=25, ST=3},  
+Queue 1: Tasks=[T{AT=6, ST=2}]
+Queue 2: Close
+
+Current time: 8
+Waiting tasks: T{AT=12, ST=2}, T{AT=25, ST=3}, T{AT=25, ST=3},  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 9
+Waiting tasks: T{AT=12, ST=2}, T{AT=25, ST=3}, T{AT=25, ST=3},  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 10
+Waiting tasks: T{AT=12, ST=2}, T{AT=25, ST=3}, T{AT=25, ST=3},  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 11
+Waiting tasks: T{AT=12, ST=2}, T{AT=25, ST=3}, T{AT=25, ST=3},  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 12
+Waiting tasks: T{AT=25, ST=3}, T{AT=25, ST=3},  
+Queue 1: Tasks=[T{AT=12, ST=2}]
+Queue 2: Close
+
+Current time: 13
+Waiting tasks: T{AT=25, ST=3}, T{AT=25, ST=3},  
+Queue 1: Tasks=[T{AT=12, ST=2}]
+Queue 2: Close
+
+Current time: 14
+Waiting tasks: T{AT=25, ST=3}, T{AT=25, ST=3},  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 15
+Waiting tasks: T{AT=25, ST=3}, T{AT=25, ST=3},  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 16
+Waiting tasks: T{AT=25, ST=3}, T{AT=25, ST=3},  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 17
+Waiting tasks: T{AT=25, ST=3}, T{AT=25, ST=3},  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 18
+Waiting tasks: T{AT=25, ST=3}, T{AT=25, ST=3},  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 19
+Waiting tasks: T{AT=25, ST=3}, T{AT=25, ST=3},  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 20
+Waiting tasks: T{AT=25, ST=3}, T{AT=25, ST=3},  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 21
+Waiting tasks: T{AT=25, ST=3}, T{AT=25, ST=3},  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 22
+Waiting tasks: T{AT=25, ST=3}, T{AT=25, ST=3},  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 23
+Waiting tasks: T{AT=25, ST=3}, T{AT=25, ST=3},  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 24
+Waiting tasks: T{AT=25, ST=3}, T{AT=25, ST=3},  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 25
+Waiting tasks:  
+Queue 1: Tasks=[T{AT=25, ST=3}]
+Queue 2: Tasks=[T{AT=25, ST=3}]
+
+Current time: 26
+Waiting tasks:  
+Queue 1: Tasks=[T{AT=25, ST=3}]
+Queue 2: Tasks=[T{AT=25, ST=3}]
+
+Current time: 27
+Waiting tasks:  
+Queue 1: Tasks=[T{AT=25, ST=3}]
+Queue 2: Tasks=[T{AT=25, ST=3}]
+
+Current time: 28
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 29
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 30
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 31
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 32
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 33
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 34
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 35
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 36
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 37
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 38
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 39
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 40
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 41
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 42
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 43
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 44
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 45
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 46
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 47
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 48
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 49
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 50
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 51
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 52
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 53
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 54
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 55
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 56
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 57
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 58
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 59
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+
+Current time: 60
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+
+AVG WAITING TIME:0.21666667
+AVG SERVICE TIME:2.5
+PEAK HOUR:25 nr tasks: 2

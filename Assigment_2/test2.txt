@@ -1,0 +1,483 @@
+Current time: 1
+Waiting tasks: T{AT=2, ST=4}, T{AT=2, ST=1}, T{AT=3, ST=2}, T{AT=4, ST=2}, T{AT=5, ST=4}, T{AT=5, ST=1}, T{AT=6, ST=3}, T{AT=7, ST=5}, T{AT=8, ST=2}, T{AT=9, ST=3}, T{AT=11, ST=5}, T{AT=11, ST=3}, T{AT=13, ST=2}, T{AT=13, ST=5}, T{AT=13, ST=3}, T{AT=13, ST=5}, T{AT=13, ST=2}, T{AT=13, ST=2}, T{AT=15, ST=6}, T{AT=15, ST=4}, T{AT=16, ST=3}, T{AT=16, ST=4}, T{AT=16, ST=3}, T{AT=17, ST=6}, T{AT=18, ST=2}, T{AT=19, ST=3}, T{AT=19, ST=3}, T{AT=19, ST=5}, T{AT=19, ST=4}, T{AT=21, ST=2}, T{AT=21, ST=5}, T{AT=22, ST=4}, T{AT=22, ST=4}, T{AT=22, ST=1}, T{AT=24, ST=2}, T{AT=25, ST=6}, T{AT=29, ST=6}, T{AT=29, ST=5}, T{AT=29, ST=5}, T{AT=31, ST=1}, T{AT=31, ST=5}, T{AT=31, ST=3}, T{AT=32, ST=1}, T{AT=32, ST=2}, T{AT=34, ST=2}, T{AT=34, ST=5}, T{AT=37, ST=3}, T{AT=38, ST=5}, T{AT=38, ST=3}, T{AT=39, ST=5},  
+Queue 1: Close
+Queue 2: Close
+Queue 3: Close
+Queue 4: Close
+Queue 5: Close
+
+Current time: 2
+Waiting tasks: T{AT=3, ST=2}, T{AT=4, ST=2}, T{AT=5, ST=4}, T{AT=5, ST=1}, T{AT=6, ST=3}, T{AT=7, ST=5}, T{AT=8, ST=2}, T{AT=9, ST=3}, T{AT=11, ST=5}, T{AT=11, ST=3}, T{AT=13, ST=2}, T{AT=13, ST=5}, T{AT=13, ST=3}, T{AT=13, ST=5}, T{AT=13, ST=2}, T{AT=13, ST=2}, T{AT=15, ST=6}, T{AT=15, ST=4}, T{AT=16, ST=3}, T{AT=16, ST=4}, T{AT=16, ST=3}, T{AT=17, ST=6}, T{AT=18, ST=2}, T{AT=19, ST=3}, T{AT=19, ST=3}, T{AT=19, ST=5}, T{AT=19, ST=4}, T{AT=21, ST=2}, T{AT=21, ST=5}, T{AT=22, ST=4}, T{AT=22, ST=4}, T{AT=22, ST=1}, T{AT=24, ST=2}, T{AT=25, ST=6}, T{AT=29, ST=6}, T{AT=29, ST=5}, T{AT=29, ST=5}, T{AT=31, ST=1}, T{AT=31, ST=5}, T{AT=31, ST=3}, T{AT=32, ST=1}, T{AT=32, ST=2}, T{AT=34, ST=2}, T{AT=34, ST=5}, T{AT=37, ST=3}, T{AT=38, ST=5}, T{AT=38, ST=3}, T{AT=39, ST=5},  
+Queue 1: Tasks=[T{AT=2, ST=4}]
+Queue 2: Tasks=[T{AT=2, ST=1}]
+Queue 3: Close
+Queue 4: Close
+Queue 5: Close
+
+Current time: 3
+Waiting tasks: T{AT=4, ST=2}, T{AT=5, ST=4}, T{AT=5, ST=1}, T{AT=6, ST=3}, T{AT=7, ST=5}, T{AT=8, ST=2}, T{AT=9, ST=3}, T{AT=11, ST=5}, T{AT=11, ST=3}, T{AT=13, ST=2}, T{AT=13, ST=5}, T{AT=13, ST=3}, T{AT=13, ST=5}, T{AT=13, ST=2}, T{AT=13, ST=2}, T{AT=15, ST=6}, T{AT=15, ST=4}, T{AT=16, ST=3}, T{AT=16, ST=4}, T{AT=16, ST=3}, T{AT=17, ST=6}, T{AT=18, ST=2}, T{AT=19, ST=3}, T{AT=19, ST=3}, T{AT=19, ST=5}, T{AT=19, ST=4}, T{AT=21, ST=2}, T{AT=21, ST=5}, T{AT=22, ST=4}, T{AT=22, ST=4}, T{AT=22, ST=1}, T{AT=24, ST=2}, T{AT=25, ST=6}, T{AT=29, ST=6}, T{AT=29, ST=5}, T{AT=29, ST=5}, T{AT=31, ST=1}, T{AT=31, ST=5}, T{AT=31, ST=3}, T{AT=32, ST=1}, T{AT=32, ST=2}, T{AT=34, ST=2}, T{AT=34, ST=5}, T{AT=37, ST=3}, T{AT=38, ST=5}, T{AT=38, ST=3}, T{AT=39, ST=5},  
+Queue 1: Tasks=[T{AT=2, ST=4}]
+Queue 2: Close
+Queue 3: Tasks=[T{AT=3, ST=2}]
+Queue 4: Close
+Queue 5: Close
+
+Current time: 4
+Waiting tasks: T{AT=5, ST=4}, T{AT=5, ST=1}, T{AT=6, ST=3}, T{AT=7, ST=5}, T{AT=8, ST=2}, T{AT=9, ST=3}, T{AT=11, ST=5}, T{AT=11, ST=3}, T{AT=13, ST=2}, T{AT=13, ST=5}, T{AT=13, ST=3}, T{AT=13, ST=5}, T{AT=13, ST=2}, T{AT=13, ST=2}, T{AT=15, ST=6}, T{AT=15, ST=4}, T{AT=16, ST=3}, T{AT=16, ST=4}, T{AT=16, ST=3}, T{AT=17, ST=6}, T{AT=18, ST=2}, T{AT=19, ST=3}, T{AT=19, ST=3}, T{AT=19, ST=5}, T{AT=19, ST=4}, T{AT=21, ST=2}, T{AT=21, ST=5}, T{AT=22, ST=4}, T{AT=22, ST=4}, T{AT=22, ST=1}, T{AT=24, ST=2}, T{AT=25, ST=6}, T{AT=29, ST=6}, T{AT=29, ST=5}, T{AT=29, ST=5}, T{AT=31, ST=1}, T{AT=31, ST=5}, T{AT=31, ST=3}, T{AT=32, ST=1}, T{AT=32, ST=2}, T{AT=34, ST=2}, T{AT=34, ST=5}, T{AT=37, ST=3}, T{AT=38, ST=5}, T{AT=38, ST=3}, T{AT=39, ST=5},  
+Queue 1: Tasks=[T{AT=2, ST=4}]
+Queue 2: Tasks=[T{AT=4, ST=2}]
+Queue 3: Tasks=[T{AT=3, ST=2}]
+Queue 4: Close
+Queue 5: Close
+
+Current time: 5
+Waiting tasks: T{AT=6, ST=3}, T{AT=7, ST=5}, T{AT=8, ST=2}, T{AT=9, ST=3}, T{AT=11, ST=5}, T{AT=11, ST=3}, T{AT=13, ST=2}, T{AT=13, ST=5}, T{AT=13, ST=3}, T{AT=13, ST=5}, T{AT=13, ST=2}, T{AT=13, ST=2}, T{AT=15, ST=6}, T{AT=15, ST=4}, T{AT=16, ST=3}, T{AT=16, ST=4}, T{AT=16, ST=3}, T{AT=17, ST=6}, T{AT=18, ST=2}, T{AT=19, ST=3}, T{AT=19, ST=3}, T{AT=19, ST=5}, T{AT=19, ST=4}, T{AT=21, ST=2}, T{AT=21, ST=5}, T{AT=22, ST=4}, T{AT=22, ST=4}, T{AT=22, ST=1}, T{AT=24, ST=2}, T{AT=25, ST=6}, T{AT=29, ST=6}, T{AT=29, ST=5}, T{AT=29, ST=5}, T{AT=31, ST=1}, T{AT=31, ST=5}, T{AT=31, ST=3}, T{AT=32, ST=1}, T{AT=32, ST=2}, T{AT=34, ST=2}, T{AT=34, ST=5}, T{AT=37, ST=3}, T{AT=38, ST=5}, T{AT=38, ST=3}, T{AT=39, ST=5},  
+Queue 1: Tasks=[T{AT=2, ST=4}]
+Queue 2: Tasks=[T{AT=4, ST=2}]
+Queue 3: Tasks=[T{AT=5, ST=4}]
+Queue 4: Tasks=[T{AT=5, ST=1}]
+Queue 5: Close
+
+Current time: 6
+Waiting tasks: T{AT=7, ST=5}, T{AT=8, ST=2}, T{AT=9, ST=3}, T{AT=11, ST=5}, T{AT=11, ST=3}, T{AT=13, ST=2}, T{AT=13, ST=5}, T{AT=13, ST=3}, T{AT=13, ST=5}, T{AT=13, ST=2}, T{AT=13, ST=2}, T{AT=15, ST=6}, T{AT=15, ST=4}, T{AT=16, ST=3}, T{AT=16, ST=4}, T{AT=16, ST=3}, T{AT=17, ST=6}, T{AT=18, ST=2}, T{AT=19, ST=3}, T{AT=19, ST=3}, T{AT=19, ST=5}, T{AT=19, ST=4}, T{AT=21, ST=2}, T{AT=21, ST=5}, T{AT=22, ST=4}, T{AT=22, ST=4}, T{AT=22, ST=1}, T{AT=24, ST=2}, T{AT=25, ST=6}, T{AT=29, ST=6}, T{AT=29, ST=5}, T{AT=29, ST=5}, T{AT=31, ST=1}, T{AT=31, ST=5}, T{AT=31, ST=3}, T{AT=32, ST=1}, T{AT=32, ST=2}, T{AT=34, ST=2}, T{AT=34, ST=5}, T{AT=37, ST=3}, T{AT=38, ST=5}, T{AT=38, ST=3}, T{AT=39, ST=5},  
+Queue 1: Tasks=[T{AT=6, ST=3}]
+Queue 2: Close
+Queue 3: Tasks=[T{AT=5, ST=4}]
+Queue 4: Close
+Queue 5: Close
+
+Current time: 7
+Waiting tasks: T{AT=8, ST=2}, T{AT=9, ST=3}, T{AT=11, ST=5}, T{AT=11, ST=3}, T{AT=13, ST=2}, T{AT=13, ST=5}, T{AT=13, ST=3}, T{AT=13, ST=5}, T{AT=13, ST=2}, T{AT=13, ST=2}, T{AT=15, ST=6}, T{AT=15, ST=4}, T{AT=16, ST=3}, T{AT=16, ST=4}, T{AT=16, ST=3}, T{AT=17, ST=6}, T{AT=18, ST=2}, T{AT=19, ST=3}, T{AT=19, ST=3}, T{AT=19, ST=5}, T{AT=19, ST=4}, T{AT=21, ST=2}, T{AT=21, ST=5}, T{AT=22, ST=4}, T{AT=22, ST=4}, T{AT=22, ST=1}, T{AT=24, ST=2}, T{AT=25, ST=6}, T{AT=29, ST=6}, T{AT=29, ST=5}, T{AT=29, ST=5}, T{AT=31, ST=1}, T{AT=31, ST=5}, T{AT=31, ST=3}, T{AT=32, ST=1}, T{AT=32, ST=2}, T{AT=34, ST=2}, T{AT=34, ST=5}, T{AT=37, ST=3}, T{AT=38, ST=5}, T{AT=38, ST=3}, T{AT=39, ST=5},  
+Queue 1: Tasks=[T{AT=6, ST=3}]
+Queue 2: Tasks=[T{AT=7, ST=5}]
+Queue 3: Tasks=[T{AT=5, ST=4}]
+Queue 4: Close
+Queue 5: Close
+
+Current time: 8
+Waiting tasks: T{AT=9, ST=3}, T{AT=11, ST=5}, T{AT=11, ST=3}, T{AT=13, ST=2}, T{AT=13, ST=5}, T{AT=13, ST=3}, T{AT=13, ST=5}, T{AT=13, ST=2}, T{AT=13, ST=2}, T{AT=15, ST=6}, T{AT=15, ST=4}, T{AT=16, ST=3}, T{AT=16, ST=4}, T{AT=16, ST=3}, T{AT=17, ST=6}, T{AT=18, ST=2}, T{AT=19, ST=3}, T{AT=19, ST=3}, T{AT=19, ST=5}, T{AT=19, ST=4}, T{AT=21, ST=2}, T{AT=21, ST=5}, T{AT=22, ST=4}, T{AT=22, ST=4}, T{AT=22, ST=1}, T{AT=24, ST=2}, T{AT=25, ST=6}, T{AT=29, ST=6}, T{AT=29, ST=5}, T{AT=29, ST=5}, T{AT=31, ST=1}, T{AT=31, ST=5}, T{AT=31, ST=3}, T{AT=32, ST=1}, T{AT=32, ST=2}, T{AT=34, ST=2}, T{AT=34, ST=5}, T{AT=37, ST=3}, T{AT=38, ST=5}, T{AT=38, ST=3}, T{AT=39, ST=5},  
+Queue 1: Tasks=[T{AT=6, ST=3}]
+Queue 2: Tasks=[T{AT=7, ST=5}]
+Queue 3: Tasks=[T{AT=5, ST=4}]
+Queue 4: Tasks=[T{AT=8, ST=2}]
+Queue 5: Close
+
+Current time: 9
+Waiting tasks: T{AT=11, ST=5}, T{AT=11, ST=3}, T{AT=13, ST=2}, T{AT=13, ST=5}, T{AT=13, ST=3}, T{AT=13, ST=5}, T{AT=13, ST=2}, T{AT=13, ST=2}, T{AT=15, ST=6}, T{AT=15, ST=4}, T{AT=16, ST=3}, T{AT=16, ST=4}, T{AT=16, ST=3}, T{AT=17, ST=6}, T{AT=18, ST=2}, T{AT=19, ST=3}, T{AT=19, ST=3}, T{AT=19, ST=5}, T{AT=19, ST=4}, T{AT=21, ST=2}, T{AT=21, ST=5}, T{AT=22, ST=4}, T{AT=22, ST=4}, T{AT=22, ST=1}, T{AT=24, ST=2}, T{AT=25, ST=6}, T{AT=29, ST=6}, T{AT=29, ST=5}, T{AT=29, ST=5}, T{AT=31, ST=1}, T{AT=31, ST=5}, T{AT=31, ST=3}, T{AT=32, ST=1}, T{AT=32, ST=2}, T{AT=34, ST=2}, T{AT=34, ST=5}, T{AT=37, ST=3}, T{AT=38, ST=5}, T{AT=38, ST=3}, T{AT=39, ST=5},  
+Queue 1: Tasks=[T{AT=9, ST=3}]
+Queue 2: Tasks=[T{AT=7, ST=5}]
+Queue 3: Close
+Queue 4: Tasks=[T{AT=8, ST=2}]
+Queue 5: Close
+
+Current time: 10
+Waiting tasks: T{AT=11, ST=5}, T{AT=11, ST=3}, T{AT=13, ST=2}, T{AT=13, ST=5}, T{AT=13, ST=3}, T{AT=13, ST=5}, T{AT=13, ST=2}, T{AT=13, ST=2}, T{AT=15, ST=6}, T{AT=15, ST=4}, T{AT=16, ST=3}, T{AT=16, ST=4}, T{AT=16, ST=3}, T{AT=17, ST=6}, T{AT=18, ST=2}, T{AT=19, ST=3}, T{AT=19, ST=3}, T{AT=19, ST=5}, T{AT=19, ST=4}, T{AT=21, ST=2}, T{AT=21, ST=5}, T{AT=22, ST=4}, T{AT=22, ST=4}, T{AT=22, ST=1}, T{AT=24, ST=2}, T{AT=25, ST=6}, T{AT=29, ST=6}, T{AT=29, ST=5}, T{AT=29, ST=5}, T{AT=31, ST=1}, T{AT=31, ST=5}, T{AT=31, ST=3}, T{AT=32, ST=1}, T{AT=32, ST=2}, T{AT=34, ST=2}, T{AT=34, ST=5}, T{AT=37, ST=3}, T{AT=38, ST=5}, T{AT=38, ST=3}, T{AT=39, ST=5},  
+Queue 1: Tasks=[T{AT=9, ST=3}]
+Queue 2: Tasks=[T{AT=7, ST=5}]
+Queue 3: Close
+Queue 4: Close
+Queue 5: Close
+
+Current time: 11
+Waiting tasks: T{AT=13, ST=2}, T{AT=13, ST=5}, T{AT=13, ST=3}, T{AT=13, ST=5}, T{AT=13, ST=2}, T{AT=13, ST=2}, T{AT=15, ST=6}, T{AT=15, ST=4}, T{AT=16, ST=3}, T{AT=16, ST=4}, T{AT=16, ST=3}, T{AT=17, ST=6}, T{AT=18, ST=2}, T{AT=19, ST=3}, T{AT=19, ST=3}, T{AT=19, ST=5}, T{AT=19, ST=4}, T{AT=21, ST=2}, T{AT=21, ST=5}, T{AT=22, ST=4}, T{AT=22, ST=4}, T{AT=22, ST=1}, T{AT=24, ST=2}, T{AT=25, ST=6}, T{AT=29, ST=6}, T{AT=29, ST=5}, T{AT=29, ST=5}, T{AT=31, ST=1}, T{AT=31, ST=5}, T{AT=31, ST=3}, T{AT=32, ST=1}, T{AT=32, ST=2}, T{AT=34, ST=2}, T{AT=34, ST=5}, T{AT=37, ST=3}, T{AT=38, ST=5}, T{AT=38, ST=3}, T{AT=39, ST=5},  
+Queue 1: Tasks=[T{AT=9, ST=3}]
+Queue 2: Tasks=[T{AT=7, ST=5}]
+Queue 3: Tasks=[T{AT=11, ST=5}]
+Queue 4: Tasks=[T{AT=11, ST=3}]
+Queue 5: Close
+
+Current time: 12
+Waiting tasks: T{AT=13, ST=2}, T{AT=13, ST=5}, T{AT=13, ST=3}, T{AT=13, ST=5}, T{AT=13, ST=2}, T{AT=13, ST=2}, T{AT=15, ST=6}, T{AT=15, ST=4}, T{AT=16, ST=3}, T{AT=16, ST=4}, T{AT=16, ST=3}, T{AT=17, ST=6}, T{AT=18, ST=2}, T{AT=19, ST=3}, T{AT=19, ST=3}, T{AT=19, ST=5}, T{AT=19, ST=4}, T{AT=21, ST=2}, T{AT=21, ST=5}, T{AT=22, ST=4}, T{AT=22, ST=4}, T{AT=22, ST=1}, T{AT=24, ST=2}, T{AT=25, ST=6}, T{AT=29, ST=6}, T{AT=29, ST=5}, T{AT=29, ST=5}, T{AT=31, ST=1}, T{AT=31, ST=5}, T{AT=31, ST=3}, T{AT=32, ST=1}, T{AT=32, ST=2}, T{AT=34, ST=2}, T{AT=34, ST=5}, T{AT=37, ST=3}, T{AT=38, ST=5}, T{AT=38, ST=3}, T{AT=39, ST=5},  
+Queue 1: Close
+Queue 2: Close
+Queue 3: Tasks=[T{AT=11, ST=5}]
+Queue 4: Tasks=[T{AT=11, ST=3}]
+Queue 5: Close
+
+Current time: 13
+Waiting tasks: T{AT=15, ST=6}, T{AT=15, ST=4}, T{AT=16, ST=3}, T{AT=16, ST=4}, T{AT=16, ST=3}, T{AT=17, ST=6}, T{AT=18, ST=2}, T{AT=19, ST=3}, T{AT=19, ST=3}, T{AT=19, ST=5}, T{AT=19, ST=4}, T{AT=21, ST=2}, T{AT=21, ST=5}, T{AT=22, ST=4}, T{AT=22, ST=4}, T{AT=22, ST=1}, T{AT=24, ST=2}, T{AT=25, ST=6}, T{AT=29, ST=6}, T{AT=29, ST=5}, T{AT=29, ST=5}, T{AT=31, ST=1}, T{AT=31, ST=5}, T{AT=31, ST=3}, T{AT=32, ST=1}, T{AT=32, ST=2}, T{AT=34, ST=2}, T{AT=34, ST=5}, T{AT=37, ST=3}, T{AT=38, ST=5}, T{AT=38, ST=3}, T{AT=39, ST=5},  
+Queue 1: Tasks=[T{AT=13, ST=2}, T{AT=13, ST=5}]
+Queue 2: Tasks=[T{AT=13, ST=5}]
+Queue 3: Tasks=[T{AT=11, ST=5}]
+Queue 4: Tasks=[T{AT=11, ST=3}, T{AT=13, ST=2}]
+Queue 5: Tasks=[T{AT=13, ST=3}, T{AT=13, ST=2}]
+
+Current time: 14
+Waiting tasks: T{AT=15, ST=6}, T{AT=15, ST=4}, T{AT=16, ST=3}, T{AT=16, ST=4}, T{AT=16, ST=3}, T{AT=17, ST=6}, T{AT=18, ST=2}, T{AT=19, ST=3}, T{AT=19, ST=3}, T{AT=19, ST=5}, T{AT=19, ST=4}, T{AT=21, ST=2}, T{AT=21, ST=5}, T{AT=22, ST=4}, T{AT=22, ST=4}, T{AT=22, ST=1}, T{AT=24, ST=2}, T{AT=25, ST=6}, T{AT=29, ST=6}, T{AT=29, ST=5}, T{AT=29, ST=5}, T{AT=31, ST=1}, T{AT=31, ST=5}, T{AT=31, ST=3}, T{AT=32, ST=1}, T{AT=32, ST=2}, T{AT=34, ST=2}, T{AT=34, ST=5}, T{AT=37, ST=3}, T{AT=38, ST=5}, T{AT=38, ST=3}, T{AT=39, ST=5},  
+Queue 1: Tasks=[T{AT=13, ST=2}, T{AT=13, ST=5}]
+Queue 2: Tasks=[T{AT=13, ST=5}]
+Queue 3: Tasks=[T{AT=11, ST=5}]
+Queue 4: Tasks=[T{AT=13, ST=2}]
+Queue 5: Tasks=[T{AT=13, ST=3}, T{AT=13, ST=2}]
+
+Current time: 15
+Waiting tasks: T{AT=16, ST=3}, T{AT=16, ST=4}, T{AT=16, ST=3}, T{AT=17, ST=6}, T{AT=18, ST=2}, T{AT=19, ST=3}, T{AT=19, ST=3}, T{AT=19, ST=5}, T{AT=19, ST=4}, T{AT=21, ST=2}, T{AT=21, ST=5}, T{AT=22, ST=4}, T{AT=22, ST=4}, T{AT=22, ST=1}, T{AT=24, ST=2}, T{AT=25, ST=6}, T{AT=29, ST=6}, T{AT=29, ST=5}, T{AT=29, ST=5}, T{AT=31, ST=1}, T{AT=31, ST=5}, T{AT=31, ST=3}, T{AT=32, ST=1}, T{AT=32, ST=2}, T{AT=34, ST=2}, T{AT=34, ST=5}, T{AT=37, ST=3}, T{AT=38, ST=5}, T{AT=38, ST=3}, T{AT=39, ST=5},  
+Queue 1: Tasks=[T{AT=13, ST=5}, T{AT=15, ST=4}]
+Queue 2: Tasks=[T{AT=13, ST=5}]
+Queue 3: Tasks=[T{AT=11, ST=5}]
+Queue 4: Tasks=[T{AT=13, ST=2}, T{AT=15, ST=6}]
+Queue 5: Tasks=[T{AT=13, ST=3}, T{AT=13, ST=2}]
+
+Current time: 16
+Waiting tasks: T{AT=17, ST=6}, T{AT=18, ST=2}, T{AT=19, ST=3}, T{AT=19, ST=3}, T{AT=19, ST=5}, T{AT=19, ST=4}, T{AT=21, ST=2}, T{AT=21, ST=5}, T{AT=22, ST=4}, T{AT=22, ST=4}, T{AT=22, ST=1}, T{AT=24, ST=2}, T{AT=25, ST=6}, T{AT=29, ST=6}, T{AT=29, ST=5}, T{AT=29, ST=5}, T{AT=31, ST=1}, T{AT=31, ST=5}, T{AT=31, ST=3}, T{AT=32, ST=1}, T{AT=32, ST=2}, T{AT=34, ST=2}, T{AT=34, ST=5}, T{AT=37, ST=3}, T{AT=38, ST=5}, T{AT=38, ST=3}, T{AT=39, ST=5},  
+Queue 1: Tasks=[T{AT=13, ST=5}, T{AT=15, ST=4}]
+Queue 2: Tasks=[T{AT=13, ST=5}]
+Queue 3: Tasks=[T{AT=16, ST=3}, T{AT=16, ST=3}]
+Queue 4: Tasks=[T{AT=15, ST=6}]
+Queue 5: Tasks=[T{AT=13, ST=2}, T{AT=16, ST=4}]
+
+Current time: 17
+Waiting tasks: T{AT=18, ST=2}, T{AT=19, ST=3}, T{AT=19, ST=3}, T{AT=19, ST=5}, T{AT=19, ST=4}, T{AT=21, ST=2}, T{AT=21, ST=5}, T{AT=22, ST=4}, T{AT=22, ST=4}, T{AT=22, ST=1}, T{AT=24, ST=2}, T{AT=25, ST=6}, T{AT=29, ST=6}, T{AT=29, ST=5}, T{AT=29, ST=5}, T{AT=31, ST=1}, T{AT=31, ST=5}, T{AT=31, ST=3}, T{AT=32, ST=1}, T{AT=32, ST=2}, T{AT=34, ST=2}, T{AT=34, ST=5}, T{AT=37, ST=3}, T{AT=38, ST=5}, T{AT=38, ST=3}, T{AT=39, ST=5},  
+Queue 1: Tasks=[T{AT=13, ST=5}, T{AT=15, ST=4}]
+Queue 2: Tasks=[T{AT=13, ST=5}, T{AT=17, ST=6}]
+Queue 3: Tasks=[T{AT=16, ST=3}, T{AT=16, ST=3}]
+Queue 4: Tasks=[T{AT=15, ST=6}]
+Queue 5: Tasks=[T{AT=13, ST=2}, T{AT=16, ST=4}]
+
+Current time: 18
+Waiting tasks: T{AT=19, ST=3}, T{AT=19, ST=3}, T{AT=19, ST=5}, T{AT=19, ST=4}, T{AT=21, ST=2}, T{AT=21, ST=5}, T{AT=22, ST=4}, T{AT=22, ST=4}, T{AT=22, ST=1}, T{AT=24, ST=2}, T{AT=25, ST=6}, T{AT=29, ST=6}, T{AT=29, ST=5}, T{AT=29, ST=5}, T{AT=31, ST=1}, T{AT=31, ST=5}, T{AT=31, ST=3}, T{AT=32, ST=1}, T{AT=32, ST=2}, T{AT=34, ST=2}, T{AT=34, ST=5}, T{AT=37, ST=3}, T{AT=38, ST=5}, T{AT=38, ST=3}, T{AT=39, ST=5},  
+Queue 1: Tasks=[T{AT=13, ST=5}, T{AT=15, ST=4}]
+Queue 2: Tasks=[T{AT=17, ST=6}]
+Queue 3: Tasks=[T{AT=16, ST=3}, T{AT=16, ST=3}]
+Queue 4: Tasks=[T{AT=15, ST=6}]
+Queue 5: Tasks=[T{AT=16, ST=4}, T{AT=18, ST=2}]
+
+Current time: 19
+Waiting tasks: T{AT=21, ST=2}, T{AT=21, ST=5}, T{AT=22, ST=4}, T{AT=22, ST=4}, T{AT=22, ST=1}, T{AT=24, ST=2}, T{AT=25, ST=6}, T{AT=29, ST=6}, T{AT=29, ST=5}, T{AT=29, ST=5}, T{AT=31, ST=1}, T{AT=31, ST=5}, T{AT=31, ST=3}, T{AT=32, ST=1}, T{AT=32, ST=2}, T{AT=34, ST=2}, T{AT=34, ST=5}, T{AT=37, ST=3}, T{AT=38, ST=5}, T{AT=38, ST=3}, T{AT=39, ST=5},  
+Queue 1: Tasks=[T{AT=13, ST=5}, T{AT=15, ST=4}]
+Queue 2: Tasks=[T{AT=17, ST=6}, T{AT=19, ST=3}]
+Queue 3: Tasks=[T{AT=16, ST=3}, T{AT=19, ST=3}, T{AT=19, ST=5}]
+Queue 4: Tasks=[T{AT=15, ST=6}, T{AT=19, ST=4}]
+Queue 5: Tasks=[T{AT=16, ST=4}, T{AT=18, ST=2}]
+
+Current time: 20
+Waiting tasks: T{AT=21, ST=2}, T{AT=21, ST=5}, T{AT=22, ST=4}, T{AT=22, ST=4}, T{AT=22, ST=1}, T{AT=24, ST=2}, T{AT=25, ST=6}, T{AT=29, ST=6}, T{AT=29, ST=5}, T{AT=29, ST=5}, T{AT=31, ST=1}, T{AT=31, ST=5}, T{AT=31, ST=3}, T{AT=32, ST=1}, T{AT=32, ST=2}, T{AT=34, ST=2}, T{AT=34, ST=5}, T{AT=37, ST=3}, T{AT=38, ST=5}, T{AT=38, ST=3}, T{AT=39, ST=5},  
+Queue 1: Tasks=[T{AT=15, ST=4}]
+Queue 2: Tasks=[T{AT=17, ST=6}, T{AT=19, ST=3}]
+Queue 3: Tasks=[T{AT=16, ST=3}, T{AT=19, ST=3}, T{AT=19, ST=5}]
+Queue 4: Tasks=[T{AT=15, ST=6}, T{AT=19, ST=4}]
+Queue 5: Tasks=[T{AT=16, ST=4}, T{AT=18, ST=2}]
+
+Current time: 21
+Waiting tasks: T{AT=22, ST=4}, T{AT=22, ST=4}, T{AT=22, ST=1}, T{AT=24, ST=2}, T{AT=25, ST=6}, T{AT=29, ST=6}, T{AT=29, ST=5}, T{AT=29, ST=5}, T{AT=31, ST=1}, T{AT=31, ST=5}, T{AT=31, ST=3}, T{AT=32, ST=1}, T{AT=32, ST=2}, T{AT=34, ST=2}, T{AT=34, ST=5}, T{AT=37, ST=3}, T{AT=38, ST=5}, T{AT=38, ST=3}, T{AT=39, ST=5},  
+Queue 1: Tasks=[T{AT=15, ST=4}, T{AT=21, ST=2}, T{AT=21, ST=5}]
+Queue 2: Tasks=[T{AT=17, ST=6}, T{AT=19, ST=3}]
+Queue 3: Tasks=[T{AT=16, ST=3}, T{AT=19, ST=3}, T{AT=19, ST=5}]
+Queue 4: Tasks=[T{AT=15, ST=6}, T{AT=19, ST=4}]
+Queue 5: Tasks=[T{AT=16, ST=4}, T{AT=18, ST=2}]
+
+Current time: 22
+Waiting tasks: T{AT=24, ST=2}, T{AT=25, ST=6}, T{AT=29, ST=6}, T{AT=29, ST=5}, T{AT=29, ST=5}, T{AT=31, ST=1}, T{AT=31, ST=5}, T{AT=31, ST=3}, T{AT=32, ST=1}, T{AT=32, ST=2}, T{AT=34, ST=2}, T{AT=34, ST=5}, T{AT=37, ST=3}, T{AT=38, ST=5}, T{AT=38, ST=3}, T{AT=39, ST=5},  
+Queue 1: Tasks=[T{AT=15, ST=4}, T{AT=21, ST=2}, T{AT=21, ST=5}]
+Queue 2: Tasks=[T{AT=17, ST=6}, T{AT=19, ST=3}]
+Queue 3: Tasks=[T{AT=19, ST=3}, T{AT=19, ST=5}]
+Queue 4: Tasks=[T{AT=19, ST=4}, T{AT=22, ST=4}]
+Queue 5: Tasks=[T{AT=18, ST=2}, T{AT=22, ST=4}, T{AT=22, ST=1}]
+
+Current time: 23
+Waiting tasks: T{AT=24, ST=2}, T{AT=25, ST=6}, T{AT=29, ST=6}, T{AT=29, ST=5}, T{AT=29, ST=5}, T{AT=31, ST=1}, T{AT=31, ST=5}, T{AT=31, ST=3}, T{AT=32, ST=1}, T{AT=32, ST=2}, T{AT=34, ST=2}, T{AT=34, ST=5}, T{AT=37, ST=3}, T{AT=38, ST=5}, T{AT=38, ST=3}, T{AT=39, ST=5},  
+Queue 1: Tasks=[T{AT=15, ST=4}, T{AT=21, ST=2}, T{AT=21, ST=5}]
+Queue 2: Tasks=[T{AT=17, ST=6}, T{AT=19, ST=3}]
+Queue 3: Tasks=[T{AT=19, ST=3}, T{AT=19, ST=5}]
+Queue 4: Tasks=[T{AT=19, ST=4}, T{AT=22, ST=4}]
+Queue 5: Tasks=[T{AT=18, ST=2}, T{AT=22, ST=4}, T{AT=22, ST=1}]
+
+Current time: 24
+Waiting tasks: T{AT=25, ST=6}, T{AT=29, ST=6}, T{AT=29, ST=5}, T{AT=29, ST=5}, T{AT=31, ST=1}, T{AT=31, ST=5}, T{AT=31, ST=3}, T{AT=32, ST=1}, T{AT=32, ST=2}, T{AT=34, ST=2}, T{AT=34, ST=5}, T{AT=37, ST=3}, T{AT=38, ST=5}, T{AT=38, ST=3}, T{AT=39, ST=5},  
+Queue 1: Tasks=[T{AT=21, ST=2}, T{AT=21, ST=5}]
+Queue 2: Tasks=[T{AT=19, ST=3}, T{AT=24, ST=2}]
+Queue 3: Tasks=[T{AT=19, ST=3}, T{AT=19, ST=5}]
+Queue 4: Tasks=[T{AT=19, ST=4}, T{AT=22, ST=4}]
+Queue 5: Tasks=[T{AT=22, ST=4}, T{AT=22, ST=1}]
+
+Current time: 25
+Waiting tasks: T{AT=29, ST=6}, T{AT=29, ST=5}, T{AT=29, ST=5}, T{AT=31, ST=1}, T{AT=31, ST=5}, T{AT=31, ST=3}, T{AT=32, ST=1}, T{AT=32, ST=2}, T{AT=34, ST=2}, T{AT=34, ST=5}, T{AT=37, ST=3}, T{AT=38, ST=5}, T{AT=38, ST=3}, T{AT=39, ST=5},  
+Queue 1: Tasks=[T{AT=21, ST=2}, T{AT=21, ST=5}]
+Queue 2: Tasks=[T{AT=19, ST=3}, T{AT=24, ST=2}, T{AT=25, ST=6}]
+Queue 3: Tasks=[T{AT=19, ST=5}]
+Queue 4: Tasks=[T{AT=19, ST=4}, T{AT=22, ST=4}]
+Queue 5: Tasks=[T{AT=22, ST=4}, T{AT=22, ST=1}]
+
+Current time: 26
+Waiting tasks: T{AT=29, ST=6}, T{AT=29, ST=5}, T{AT=29, ST=5}, T{AT=31, ST=1}, T{AT=31, ST=5}, T{AT=31, ST=3}, T{AT=32, ST=1}, T{AT=32, ST=2}, T{AT=34, ST=2}, T{AT=34, ST=5}, T{AT=37, ST=3}, T{AT=38, ST=5}, T{AT=38, ST=3}, T{AT=39, ST=5},  
+Queue 1: Tasks=[T{AT=21, ST=5}]
+Queue 2: Tasks=[T{AT=19, ST=3}, T{AT=24, ST=2}, T{AT=25, ST=6}]
+Queue 3: Tasks=[T{AT=19, ST=5}]
+Queue 4: Tasks=[T{AT=22, ST=4}]
+Queue 5: Tasks=[T{AT=22, ST=4}, T{AT=22, ST=1}]
+
+Current time: 27
+Waiting tasks: T{AT=29, ST=6}, T{AT=29, ST=5}, T{AT=29, ST=5}, T{AT=31, ST=1}, T{AT=31, ST=5}, T{AT=31, ST=3}, T{AT=32, ST=1}, T{AT=32, ST=2}, T{AT=34, ST=2}, T{AT=34, ST=5}, T{AT=37, ST=3}, T{AT=38, ST=5}, T{AT=38, ST=3}, T{AT=39, ST=5},  
+Queue 1: Tasks=[T{AT=21, ST=5}]
+Queue 2: Tasks=[T{AT=24, ST=2}, T{AT=25, ST=6}]
+Queue 3: Tasks=[T{AT=19, ST=5}]
+Queue 4: Tasks=[T{AT=22, ST=4}]
+Queue 5: Tasks=[T{AT=22, ST=4}, T{AT=22, ST=1}]
+
+Current time: 28
+Waiting tasks: T{AT=29, ST=6}, T{AT=29, ST=5}, T{AT=29, ST=5}, T{AT=31, ST=1}, T{AT=31, ST=5}, T{AT=31, ST=3}, T{AT=32, ST=1}, T{AT=32, ST=2}, T{AT=34, ST=2}, T{AT=34, ST=5}, T{AT=37, ST=3}, T{AT=38, ST=5}, T{AT=38, ST=3}, T{AT=39, ST=5},  
+Queue 1: Tasks=[T{AT=21, ST=5}]
+Queue 2: Tasks=[T{AT=24, ST=2}, T{AT=25, ST=6}]
+Queue 3: Tasks=[T{AT=19, ST=5}]
+Queue 4: Tasks=[T{AT=22, ST=4}]
+Queue 5: Tasks=[T{AT=22, ST=1}]
+
+Current time: 29
+Waiting tasks: T{AT=31, ST=1}, T{AT=31, ST=5}, T{AT=31, ST=3}, T{AT=32, ST=1}, T{AT=32, ST=2}, T{AT=34, ST=2}, T{AT=34, ST=5}, T{AT=37, ST=3}, T{AT=38, ST=5}, T{AT=38, ST=3}, T{AT=39, ST=5},  
+Queue 1: Tasks=[T{AT=21, ST=5}, T{AT=29, ST=5}]
+Queue 2: Tasks=[T{AT=25, ST=6}]
+Queue 3: Tasks=[T{AT=19, ST=5}]
+Queue 4: Tasks=[T{AT=22, ST=4}, T{AT=29, ST=5}]
+Queue 5: Tasks=[T{AT=29, ST=6}]
+
+Current time: 30
+Waiting tasks: T{AT=31, ST=1}, T{AT=31, ST=5}, T{AT=31, ST=3}, T{AT=32, ST=1}, T{AT=32, ST=2}, T{AT=34, ST=2}, T{AT=34, ST=5}, T{AT=37, ST=3}, T{AT=38, ST=5}, T{AT=38, ST=3}, T{AT=39, ST=5},  
+Queue 1: Tasks=[T{AT=21, ST=5}, T{AT=29, ST=5}]
+Queue 2: Tasks=[T{AT=25, ST=6}]
+Queue 3: Close
+Queue 4: Tasks=[T{AT=29, ST=5}]
+Queue 5: Tasks=[T{AT=29, ST=6}]
+
+Current time: 31
+Waiting tasks: T{AT=32, ST=1}, T{AT=32, ST=2}, T{AT=34, ST=2}, T{AT=34, ST=5}, T{AT=37, ST=3}, T{AT=38, ST=5}, T{AT=38, ST=3}, T{AT=39, ST=5},  
+Queue 1: Tasks=[T{AT=29, ST=5}, T{AT=31, ST=3}]
+Queue 2: Tasks=[T{AT=25, ST=6}]
+Queue 3: Tasks=[T{AT=31, ST=1}, T{AT=31, ST=5}]
+Queue 4: Tasks=[T{AT=29, ST=5}]
+Queue 5: Tasks=[T{AT=29, ST=6}]
+
+Current time: 32
+Waiting tasks: T{AT=34, ST=2}, T{AT=34, ST=5}, T{AT=37, ST=3}, T{AT=38, ST=5}, T{AT=38, ST=3}, T{AT=39, ST=5},  
+Queue 1: Tasks=[T{AT=29, ST=5}, T{AT=31, ST=3}]
+Queue 2: Tasks=[T{AT=25, ST=6}]
+Queue 3: Tasks=[T{AT=31, ST=5}, T{AT=32, ST=2}]
+Queue 4: Tasks=[T{AT=29, ST=5}, T{AT=32, ST=1}]
+Queue 5: Tasks=[T{AT=29, ST=6}]
+
+Current time: 33
+Waiting tasks: T{AT=34, ST=2}, T{AT=34, ST=5}, T{AT=37, ST=3}, T{AT=38, ST=5}, T{AT=38, ST=3}, T{AT=39, ST=5},  
+Queue 1: Tasks=[T{AT=29, ST=5}, T{AT=31, ST=3}]
+Queue 2: Tasks=[T{AT=25, ST=6}]
+Queue 3: Tasks=[T{AT=31, ST=5}, T{AT=32, ST=2}]
+Queue 4: Tasks=[T{AT=29, ST=5}, T{AT=32, ST=1}]
+Queue 5: Tasks=[T{AT=29, ST=6}]
+
+Current time: 34
+Waiting tasks: T{AT=37, ST=3}, T{AT=38, ST=5}, T{AT=38, ST=3}, T{AT=39, ST=5},  
+Queue 1: Tasks=[T{AT=29, ST=5}, T{AT=31, ST=3}]
+Queue 2: Tasks=[T{AT=25, ST=6}, T{AT=34, ST=2}]
+Queue 3: Tasks=[T{AT=31, ST=5}, T{AT=32, ST=2}]
+Queue 4: Tasks=[T{AT=29, ST=5}, T{AT=32, ST=1}, T{AT=34, ST=5}]
+Queue 5: Tasks=[T{AT=29, ST=6}]
+
+Current time: 35
+Waiting tasks: T{AT=37, ST=3}, T{AT=38, ST=5}, T{AT=38, ST=3}, T{AT=39, ST=5},  
+Queue 1: Tasks=[T{AT=29, ST=5}, T{AT=31, ST=3}]
+Queue 2: Tasks=[T{AT=34, ST=2}]
+Queue 3: Tasks=[T{AT=31, ST=5}, T{AT=32, ST=2}]
+Queue 4: Tasks=[T{AT=32, ST=1}, T{AT=34, ST=5}]
+Queue 5: Close
+
+Current time: 36
+Waiting tasks: T{AT=37, ST=3}, T{AT=38, ST=5}, T{AT=38, ST=3}, T{AT=39, ST=5},  
+Queue 1: Tasks=[T{AT=31, ST=3}]
+Queue 2: Tasks=[T{AT=34, ST=2}]
+Queue 3: Tasks=[T{AT=31, ST=5}, T{AT=32, ST=2}]
+Queue 4: Tasks=[T{AT=34, ST=5}]
+Queue 5: Close
+
+Current time: 37
+Waiting tasks: T{AT=38, ST=5}, T{AT=38, ST=3}, T{AT=39, ST=5},  
+Queue 1: Tasks=[T{AT=31, ST=3}]
+Queue 2: Tasks=[T{AT=37, ST=3}]
+Queue 3: Tasks=[T{AT=32, ST=2}]
+Queue 4: Tasks=[T{AT=34, ST=5}]
+Queue 5: Close
+
+Current time: 38
+Waiting tasks: T{AT=39, ST=5},  
+Queue 1: Tasks=[T{AT=31, ST=3}]
+Queue 2: Tasks=[T{AT=37, ST=3}]
+Queue 3: Tasks=[T{AT=32, ST=2}, T{AT=38, ST=3}]
+Queue 4: Tasks=[T{AT=34, ST=5}]
+Queue 5: Tasks=[T{AT=38, ST=5}]
+
+Current time: 39
+Waiting tasks:  
+Queue 1: Tasks=[T{AT=39, ST=5}]
+Queue 2: Tasks=[T{AT=37, ST=3}]
+Queue 3: Tasks=[T{AT=38, ST=3}]
+Queue 4: Tasks=[T{AT=34, ST=5}]
+Queue 5: Tasks=[T{AT=38, ST=5}]
+
+Current time: 40
+Waiting tasks:  
+Queue 1: Tasks=[T{AT=39, ST=5}]
+Queue 2: Close
+Queue 3: Tasks=[T{AT=38, ST=3}]
+Queue 4: Tasks=[T{AT=34, ST=5}]
+Queue 5: Tasks=[T{AT=38, ST=5}]
+
+Current time: 41
+Waiting tasks:  
+Queue 1: Tasks=[T{AT=39, ST=5}]
+Queue 2: Close
+Queue 3: Tasks=[T{AT=38, ST=3}]
+Queue 4: Close
+Queue 5: Tasks=[T{AT=38, ST=5}]
+
+Current time: 42
+Waiting tasks:  
+Queue 1: Tasks=[T{AT=39, ST=5}]
+Queue 2: Close
+Queue 3: Close
+Queue 4: Close
+Queue 5: Tasks=[T{AT=38, ST=5}]
+
+Current time: 43
+Waiting tasks:  
+Queue 1: Tasks=[T{AT=39, ST=5}]
+Queue 2: Close
+Queue 3: Close
+Queue 4: Close
+Queue 5: Close
+
+Current time: 44
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+Queue 3: Close
+Queue 4: Close
+Queue 5: Close
+
+Current time: 45
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+Queue 3: Close
+Queue 4: Close
+Queue 5: Close
+
+Current time: 46
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+Queue 3: Close
+Queue 4: Close
+Queue 5: Close
+
+Current time: 47
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+Queue 3: Close
+Queue 4: Close
+Queue 5: Close
+
+Current time: 48
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+Queue 3: Close
+Queue 4: Close
+Queue 5: Close
+
+Current time: 49
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+Queue 3: Close
+Queue 4: Close
+Queue 5: Close
+
+Current time: 50
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+Queue 3: Close
+Queue 4: Close
+Queue 5: Close
+
+Current time: 51
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+Queue 3: Close
+Queue 4: Close
+Queue 5: Close
+
+Current time: 52
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+Queue 3: Close
+Queue 4: Close
+Queue 5: Close
+
+Current time: 53
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+Queue 3: Close
+Queue 4: Close
+Queue 5: Close
+
+Current time: 54
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+Queue 3: Close
+Queue 4: Close
+Queue 5: Close
+
+Current time: 55
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+Queue 3: Close
+Queue 4: Close
+Queue 5: Close
+
+Current time: 56
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+Queue 3: Close
+Queue 4: Close
+Queue 5: Close
+
+Current time: 57
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+Queue 3: Close
+Queue 4: Close
+Queue 5: Close
+
+Current time: 58
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+Queue 3: Close
+Queue 4: Close
+Queue 5: Close
+
+Current time: 59
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+Queue 3: Close
+Queue 4: Close
+Queue 5: Close
+
+Current time: 60
+Waiting tasks:  
+Queue 1: Close
+Queue 2: Close
+Queue 3: Close
+Queue 4: Close
+Queue 5: Close
+
+AVG WAITING TIME:3.33
+AVG SERVICE TIME:3.44
+PEAK HOUR:21 nr tasks: 12
